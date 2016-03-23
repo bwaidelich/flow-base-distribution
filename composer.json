@@ -28,7 +28,8 @@
         "neos/utility-opcodecache": "@dev",
         "neos/utility-pdo": "@dev",
         "neos/utility-schema": "@dev",
-        "neos/utility-unicode": "@dev"
+        "neos/utility-unicode": "@dev",
+        "doctrine/orm": "~2.5"
     },
     "require-dev": {
         "typo3/kickstart": "dev-master",
